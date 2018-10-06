@@ -7,3 +7,5 @@ git checkout --<文件名>，丢弃工作区的修改。
 如果已经git add ，想要放弃修改需要两步，1、git reset HEAD <文件名>，
 2、git checkout --<文件名>
 如果已经commit，参考版本回退。
+
+提交到远程库：git push origin master
