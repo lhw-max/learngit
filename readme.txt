@@ -16,3 +16,5 @@ git checkout --<文件名>，丢弃工作区的修改。
 创建加切换分支：git checkout -b <name>
 合并某分支到当前分支：git merge <name>
 删除分支：git branch -d <name>
+
+演示
